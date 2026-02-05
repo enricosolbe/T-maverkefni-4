@@ -1,10 +1,10 @@
 # Reglurnar
-# 2 Spilar
-# Á skjánum mun koma Stærðfræði Dæmi
-# Spilarar reikna dæmin og setja svörin í Borðið Og svo Smella í Stóra takkan til að seta inn svar.
-# Firstur í 10 Stig Vinnur
-# til að missa stig þarf maður að setja inn rángt svar firstur þá fær maður -1 Stig
-# Firstur Í -5 Stig Tapar
+2 Spilar
+Á skjánum mun koma Stærðfræði Dæmi
+Spilarar reikna dæmin og setja svörin í Borðið Og svo Smella í Stóra takkan til að seta inn svar.
+Firstur í 10 Stig Vinnur
+til að missa stig þarf maður að setja inn rángt svar firstur þá fær maður -1 Stig
+Firstur Í -5 Stig Tapar
 
 # Hvað Gerist 
 # Smella á On og Svo Start Þá hefur maður 5 Sec Fyrr en Leikur Birjar
