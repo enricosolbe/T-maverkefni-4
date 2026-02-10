@@ -14,3 +14,6 @@ Ef þú slærð inn rangt svar færðu -1 stig. Sá sem nær fyrstur -5 stigum t
 Smelltu á „Byrja“. Þú hefur 5 sekúndur til að leikurinn byrji.
 Þegar LED-ljósið verður grænt birtist dæmi á skjánum sem þú þarft að vinna þig í gegnum.
 Ef persónan vinstra megin slær inn rétt svar kviknar á vinstri LED-ljósinu og viðkomandi fær stig.
+
+
+![mynd](Paper_)
