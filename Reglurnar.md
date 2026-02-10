@@ -1,7 +1,7 @@
-# Stærfræði Spil - Orion og Enric
+# Calculator - Orion og Enric
 
 # Lýsing 
-Leikurinn Stærfræði Spil er stærðfræðileikur fyrir tvo spilara.
+Leikurinn Calculatorr er stærðfræðileikur fyrir tvo spilara.
 
 # Reglurnar
 2 Spilar
