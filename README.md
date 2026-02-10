@@ -17,3 +17,4 @@ Ef persónan vinstra megin slær inn rétt svar kviknar á vinstri LED-ljósinu 
 
 
 ![mynd](paper_prototipe.png)
+![mynd](Desing%20Calculatorr.svg)
