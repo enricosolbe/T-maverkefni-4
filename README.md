@@ -18,3 +18,5 @@ Ef persónan vinstra megin slær inn rétt svar kviknar á vinstri LED-ljósinu 
 
 ![mynd](paper_prototipe.png)
 ![mynd](Desing%20Calculatorr.svg)
+
+https://github.com/enricosolbe/T-maverkefni-4/blob/main/Reglunar%20Calculatorr.pdf
