@@ -16,4 +16,4 @@ Smelltu á „Byrja“. Þú hefur 5 sekúndur til að leikurinn byrji.
 Ef persónan vinstra megin slær inn rétt svar kviknar á vinstri LED-ljósinu og viðkomandi fær stig.
 
 
-![mynd](Paper_)
+![mynd](paper_prototipe.png)
