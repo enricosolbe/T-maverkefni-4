@@ -1,3 +1,8 @@
+# Stærfræði Spil - Orion og Enric
+
+# Lýsing 
+Leikurinn Stærfræði Spil er stærðfræðileikur fyrir tvo spilara.
+
 # Reglurnar
 2 Spilar
 Á skjánum mun koma Stærðfræði Dæmi
