@@ -1,6 +1,6 @@
 # Calculator - Orion og Enric
 
-**Reglurnar** 
+**Reglurnar:** 
 Leikurinn Calculatorr er stærðfræðileikur fyrir **2 spilara**.
 Á skjánum mun koma Stærðfræði Dæmi
 Spilarar reikna dæmin og setja svörin í Borðið Og svo Smella í Stóra takkan til að seta inn svar.
