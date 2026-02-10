@@ -1,5 +1,5 @@
 # Calculator - Orion og Enric
-**Inngángur**
+**Inngangur**
 
 
 
