@@ -1,4 +1,7 @@
 # Calculator - Orion og Enric
+**Inngángur**
+
+
 
 **Reglurnar:** 
 Leikurinn Calculatorr er stærðfræðileikur fyrir **2 spilara**.
