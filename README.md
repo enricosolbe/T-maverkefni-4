@@ -5,16 +5,14 @@
 
 **Reglurnar:** 
 Leikurinn Calculatorr er stærðfræðileikur fyrir **2 spilara**.
-Á skjánum mun koma Stærðfræði Dæmi
+Á skjánum mun koma Stærðfræði Dæmi.
 Spilarar reikna dæmin og setja svörin í Borðið Og svo Smella í Stóra takkan til að seta inn svar.
-Sá sem fyrstur skrifar rétta svarið og lærir hnappinn vinnur Stig. Firstur í 10 Stig Vinnur
-Ef þú slærð inn rangt svar færðu -1 stig. Sá sem nær fyrstur -5 stigum tapar. Firstur Í -5 Stig Tapar.
+Sá sem fyrstur skrifar rétta svarið vinnur Stig. Firstur í 10 Stig Vinnur.
+Ef þú setur inn rangt svar fær aðstæðingur 1 stig.
 
 **Hvernig á að byrja?**
-Smelltu á „Byrja“. Þú hefur 5 sekúndur til að leikurinn byrji.
-Þegar LED-ljósið verður grænt birtist dæmi á skjánum sem þú þarft að vinna þig í gegnum.
-Ef persónan vinstra megin slær inn rétt svar kviknar á vinstri LED-ljósinu og viðkomandi fær stig.
-
+Smelltu á Stora Græna takkan. Þú hefur 3 sekúndur til að leikurinn byrji.
+Þegar leikur birjar birtist dæmi á skjánum.
 
 ![mynd](paper_prototipe.png)
 ![mynd](Desing%20Calculatorr.svg)
