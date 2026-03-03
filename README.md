@@ -19,6 +19,8 @@ Smelltu á Stóra Græna takkan.
 
 ![mynd](paper_prototipe.png)
 ![mynd](Desing%20Calculatorr.svg)
+![mynd](Game_outside.png)
+![mynd](Game_inside.png)
 
 Decoration: https://github.com/enricosolbe/T-maverkefni-4/blob/main/Decoration.stl
 Reglunar PDF: https://github.com/enricosolbe/T-maverkefni-4/blob/main/Reglunar%20Calculatorr.pdf
