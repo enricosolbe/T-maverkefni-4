@@ -24,3 +24,4 @@ Smelltu á Stóra Græna takkan.
 
 Decoration: https://github.com/enricosolbe/T-maverkefni-4/blob/main/Decoration.stl
 Reglunar PDF: https://github.com/enricosolbe/T-maverkefni-4/blob/main/Reglunar%20Calculatorr.pdf
+Video: https://youtu.be/w6FRSDXZKaU
